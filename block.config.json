@@ -1,0 +1,36 @@
+{
+  "name": "7Sep",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/7Sep.git",
+    "ssh": "git@github.com:grgshiji/7Sep.git",
+    "branch": "block_7Sep"
+  },
+  "dependencies": {
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "0Swb7s5uQ8wpIDS75ttR3",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
